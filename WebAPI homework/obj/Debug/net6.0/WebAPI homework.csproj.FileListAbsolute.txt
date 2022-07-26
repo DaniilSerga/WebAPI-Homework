@@ -1,0 +1,27 @@
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\bin\Debug\net6.0\appsettings.json
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\bin\Debug\net6.0\WebAPI homework.exe
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\bin\Debug\net6.0\WebAPI homework.deps.json
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\bin\Debug\net6.0\WebAPI homework.runtimeconfig.json
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\bin\Debug\net6.0\WebAPI homework.dll
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\bin\Debug\net6.0\WebAPI homework.pdb
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\WebAPI homework.csproj.AssemblyReference.cache
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\WebAPI homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\WebAPI homework.AssemblyInfoInputs.cache
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\WebAPI homework.AssemblyInfo.cs
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\WebAPI homework.csproj.CoreCompileInputs.cache
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\WebAPI homework.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\WebAPI homework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\scopedcss\bundle\WebAPI homework.styles.css
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\WebAPI homework.csproj.CopyComplete
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\WebAPI homework.dll
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\refint\WebAPI homework.dll
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\WebAPI homework.pdb
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\WebAPI homework.genruntimeconfig.cache
+C:\Users\Supre\source\repos\WebAPI homework\WebAPI homework\obj\Debug\net6.0\ref\WebAPI homework.dll
