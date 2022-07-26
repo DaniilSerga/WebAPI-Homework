@@ -1,7 +1,10 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace WebAPI_homework.Models
 {
+
+    [Table("Users")]
     public class User
     {
         public int Id { get; set; }

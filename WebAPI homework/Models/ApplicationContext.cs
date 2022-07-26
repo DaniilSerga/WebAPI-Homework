@@ -1,16 +1,16 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Hosting.Server;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebAPI_homework.Models
 {
     public class ApplicationContext : DbContext
     {
-        public DbSet<User> User { get; set; } = null!;
+        public DbSet<User> Users { get; set; } = null!;
         public DbSet<Product> Products { get; set; } = null!;
 
-        public ApplicationContext()
+        public ApplicationContext(DbContextOptions<ApplicationContext> options)
+            : base(options)
         {
-            Database.EnsureDeleted();
-            Database.EnsureCreated();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
