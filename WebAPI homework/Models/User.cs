@@ -9,9 +9,9 @@ namespace WebAPI_homework.Models
     {
         public int Id { get; set; }
 
-        public string? Name { get; set; } = null!;
+        public string Name { get; set; } = "";
 
-        public string? MobilePhone { get; set; } = null!;
+        public string? MobilePhone { get; set; }
 
         public List<Product> Products { get; set; } = new();
     }
